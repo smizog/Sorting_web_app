@@ -1,0 +1,14 @@
+The purpose of this project is to create a web app that displays various sorting algorithms.
+It will show bubble sort, Insertion sort, Merge sort, Quick sort, and Heap sort.
+
+Certain features:
+    - a visual to see the sort happen 'real time'
+    - a button to generate a randomized data set
+    - a button to start the sort
+
+Additional features
+    - some way to select the type of sort used
+    - a slider to slow down the sort
+    - a slider to change the size of the randomized set
+
+     
